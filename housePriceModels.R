@@ -4,7 +4,7 @@ source('cdmFunctions.R')
 
 # Establish plotting options ----
 library( RColorBrewer )
-# There will be 3 plots:
+# There will be 4 sets of plots:
 # 1) Logistic NN
 # 2) Tanh NN
 # 3) Average of (1) & (2)
